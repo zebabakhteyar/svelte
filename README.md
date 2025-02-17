@@ -36,3 +36,7 @@ Probably not, but it's possible. If you can't seem to access any `.dev` sites, c
 ## License
 
 [MIT](LICENSE.md)
+npx degit sveltejs/template svelte-app
+cd svelte-app
+npm install
+
